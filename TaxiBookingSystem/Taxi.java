@@ -1,4 +1,3 @@
-package Barath.com.Zoho.ThirdRound.TaxiBookingSystem;
 import java.util.*;
 class Taxi {
     int id;
