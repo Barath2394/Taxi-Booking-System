@@ -1,5 +1,3 @@
-package Barath.com.Zoho.ThirdRound.TaxiBookingSystem;
-
 public class Booking {
     int bookingId,customerId,pickUpTime,dropTime,amount;
     char from,to;
