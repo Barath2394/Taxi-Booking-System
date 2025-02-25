@@ -1,4 +1,3 @@
-package Barath.com.Zoho.ThirdRound.TaxiBookingSystem;
 import java.util.*;
 public class TaxiBookingSystem {
     static List<Taxi> taxis = new ArrayList<>();
